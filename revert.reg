@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout]
+"Scancode Map"=-
+
+[HKEY_CLASSES_ROOT\*]
+"DefaultDropEffect"=-
+
+[HKEY_CLASSES_ROOT\AllFilesystemObjects]
+"DefaultDropEffect"=-
