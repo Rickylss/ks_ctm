@@ -12,3 +12,7 @@ ks_cm 全称 keyswap & copy to move，是一个 Windows 注册表文件，其包
 右键 `ks_ctm.reg`，选择 `打开方式->注册表编辑器`，然后选择 `是`，完成导入后务必**重启系统**。
 
 若要恢复原有设置，则右键 `revert.reg`，选择 `打开方式->注册表编辑器`，然后选择 `是`，完成导入后重启系统。
+
+## 参考链接
+
+- [修改键盘键位的布局](https://chengchaos.github.io/2019/06/18/windows-scancode-map.html)
